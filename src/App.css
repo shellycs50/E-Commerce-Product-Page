@@ -1,0 +1,9 @@
+  @import './custom.css';
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  @font-face {
+    font-family: 'Kumbasans';
+    src: url('./assets/KumbhSans.ttf') format('truetype');
+  }
